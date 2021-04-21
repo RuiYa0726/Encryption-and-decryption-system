@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.osgi_3.13.0.v20180110-2102.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.osgi_3.13.0.v20180110-2102.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.core.commands_3.9.100.v20171212-1736.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.core.commands_3.9.100.v20171212-1736.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.equinox.common_3.9.100.v20180103-0638.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.equinox.common_3.9.100.v20180103-0638.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.equinox.registry_3.8.0.v20171221-2204.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.equinox.registry_3.8.0.v20171221-2204.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.core.runtime_3.14.0.v20171130-1004.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.core.runtime_3.14.0.v20171130-1004.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.text_3.6.300.v20171212-0901.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.text_3.6.300.v20171212-0901.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.107.0.v20180124-1904.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.107.0.v20180124-1904.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.jface_3.14.0.v20180123-2012.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.jface_3.14.0.v20180123-2012.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.jface.text_3.13.0.v20180124-1304.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.jface.text_3.13.0.v20180124-1304.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.ui.workbench_3.111.0.v20180122-1007.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.ui.workbench_3.111.0.v20180122-1007.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/com.ibm.icu_58.2.0.v20170418-1837.jar" sourcepath="D:/eclipse/eclipse/plugins/com.ibm.icu_58.2.0.v20170418-1837.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/eclipse/plugins/org.eclipse.ui.forms_3.7.200.v20180119-1620.jar" sourcepath="D:/eclipse/eclipse/plugins/org.eclipse.ui.forms_3.7.200.v20180119-1620.jar"/>
+	<classpathentry kind="lib" path="lib/DJNativeSwing-SWT.jar"/>
+	<classpathentry kind="lib" path="lib/DJNativeSwing.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.swt.win32.win32.x86_64-4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
